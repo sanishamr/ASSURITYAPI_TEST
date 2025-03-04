@@ -1,4 +1,4 @@
-#  JavaScript  to test the API Endpoint
+#  JavaScript to test the API Endpoint
 
 
 ## Description
@@ -19,6 +19,6 @@ Method used : 'GET'
 
 ## How to Run
 1. Install Node.js from https://nodejs.org
-2. Open a terminal and navigate to this project folder
+2. Open a terminal and navigate to this project folder.
 3. Run the test using below command:
    node filename.js --> node apitest.js
