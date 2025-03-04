@@ -30,6 +30,7 @@ async function testApi() {
         //Parse json Response
         const userData = await response.json();
   
+        
         // Validate response data to verify the acceptance criteria's:
 
         //Acceptance Criteria 1 : Validate Name= "Carbon credits" present in response payload, else display error message as " Category name Mismatch"

@@ -1,6 +1,5 @@
 #  JavaScript to test the API Endpoint
 
-
 ## Description
 In this project we used JavaScript’s fetch() function to make HTTP requests to the API endpoints.
 For parsing and validating the response received, .json() method is used. 
